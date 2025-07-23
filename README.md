@@ -1,21 +1,28 @@
-## 📁 Project Structure
 
-1. **Shopify.pbix** - Power BI dashboard file  
-2. **Shopify PPT.pptx** - Project presentation  
-3. **Shopify data/** - Excel & reference files  
-4. **Dashboard Images/** - Image assets used in the report
+## Power BI Project: Shopify Sales Analysis Dashboard
 
- Designed and developed an interactive PowerBI dashboard to analyze Shopify sales data and uncover actionable 
-business insights.
- Performed comprehensive data cleaning, modeling, and DAX calculations to track key metrics including Net Sales, 
-Average Order Value, and Purchase Frequency..
- Analyzed customer behavior by segmenting single vs. repeat customers and calculating Lifetime Value (LTV) and Repeat 
-Rate.
- Built dynamic visualizations such as maps, trend lines, and KPI selectors to enable real-time data exploration by 
-stakeholders.
- Implemented drill-through functionality to allow detailed analysis at the transaction level.
- Delivered insights on regional sales trends, product performance, and preferred payment methods, supporting datadriven decision-making.
- The goal of this project is to analyze Shopify sales data in Power BI to uncover meaningful insights into transaction
-performance, customer purchasing behavior, and long-term customer value. By designing an interactive dashboard, the 
-objective is to help stakeholders identify patterns in revenue generation, customer retention, and engagement trends to 
-support data-driven decision-making
+- Designed and developed an interactive Power BI dashboard to analyze Shopify sales data and uncover actionable business insights.
+- Performed comprehensive data cleaning, modeling, and DAX calculations to track key metrics including:
+  - Net Sales
+  - Average Order Value (AOV)
+  - Purchase Frequency
+- Analyzed customer behavior by:
+  - Segmenting single vs. repeat customers
+  - Calculating Lifetime Value (LTV) and Repeat Rate
+- Built dynamic visualizations such as:
+  - Maps
+  - Trend lines
+  - KPI selectors
+  to enable real-time data exploration by stakeholders.
+- Implemented drill-through functionality to allow detailed transaction-level analysis.
+- Delivered insights on:
+  - Regional sales trends
+  - Product performance
+  - Preferred payment methods
+- Supported data-driven decision-making by presenting clear, visual analytics.
+- **Project Goal:** Analyze Shopify sales data in Power BI to extract meaningful insights into transaction performance, customer purchasing behavior, and long-term customer value.  
+  The interactive dashboard helps stakeholders identify patterns in:
+  - Revenue generation
+  - Customer retention
+  - Engagement trends
+
