@@ -65,14 +65,19 @@ Some of the key DAX formulas used in this project include:
 
 - **Net Sales**
   `Net Sales = SUM('Sales Data'[Net Amount])`
--**Average Order Value (AOV)**
+  
+- **Average Order Value (AOV)**
   `AOV = [Net Sales] / [Total Orders]`
--**Customer Repeat Rate**
+  
+- **Customer Repeat Rate**
   `Repeat Rate = DIVIDE([Repeat Customers], [Total Customers])`
-  -**Purchase Frequency**
+  
+- **Purchase Frequency**
   `Purchase Frequency = [Total Orders] / [Total Customers]`
-  -**Customer Lifetime Value (CLV)**
+  
+- **Customer Lifetime Value (CLV)**
   `CLV = [AOV] * [Purchase Frequency]`
+  
 ---
 ## Recommendations
 - **Implement Loyalty Programs to increase repeat customer rates beyond 50%.
