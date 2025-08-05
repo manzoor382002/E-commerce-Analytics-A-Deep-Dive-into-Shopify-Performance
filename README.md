@@ -25,25 +25,25 @@ This Power BI project provides a detailed sales and customer funnel analysis for
 ---
 
 ## Insights Uncovered 
-**Analyzed $4.18M in net sales across 7,534 orders to identify high-performing product categories and purchasing 
+- **Analyzed $4.18M in net sales across 7,534 orders to identify high-performing product categories and purchasing 
  trends.**
 
-**Identified top-selling items like Tennis Shoes ($1.5M), helping the company prioritize inventory, bundle offers, and focus 
+- **Identified top-selling items like Tennis Shoes ($1.5M), helping the company prioritize inventory, bundle offers, and focus 
  marketing on high-revenue products.**
 
-**Found that Shopify Payments contributed 58.45% of total revenue, guiding the company to streamline and promote 
+- **Found that Shopify Payments contributed 58.45% of total revenue, guiding the company to streamline and promote 
  preferred, higher-performing payment options.**
 
-**Lifetime value of $943.6 per customer enabled the business to estimate customer acquisition costs and set optimal ad 
+- **Lifetime value of $943.6 per customer enabled the business to estimate customer acquisition costs and set optimal ad 
  spend thresholds**
 
-**Visualized sales distribution across 20+ U.S. cities, uncovering top regions like Houston and New York City for targeted 
+- **Visualized sales distribution across 20+ U.S. cities, uncovering top regions like Houston and New York City for targeted 
  marketing.**
 
-**Built dynamic visualizations such as maps, trend lines, and KPI selectors to enable real-time data exploration by 
+- **Built dynamic visualizations such as maps, trend lines, and KPI selectors to enable real-time data exploration by 
  stakeholders.**
  
-**Using drill-through pages, decision-makers could explore individual customer journeys, helping identify churn patterns or 
+- **Using drill-through pages, decision-makers could explore individual customer journeys, helping identify churn patterns or 
  upsell opportunities**
 
 
@@ -75,13 +75,13 @@ Some of the key DAX formulas used in this project include:
   `CLV = [AOV] * [Purchase Frequency]`
 ---
 ## Recommendations
-**Implement Loyalty Programs to increase repeat customer rates beyond 50%.
+- **Implement Loyalty Programs to increase repeat customer rates beyond 50%.
 
-**Target Top Cities like New York, Los Angeles, and Dallas with local promotions.
+- **Target Top Cities like New York, Los Angeles, and Dallas with local promotions.
 
-** Stock Best-selling Categories such as Tennis & Running Shoes more aggressively.
+- ** Stock Best-selling Categories such as Tennis & Running Shoes more aggressively.
 
-** Optimize Checkout Experience on preferred payment gateways for higher conversions.
+- ** Optimize Checkout Experience on preferred payment gateways for higher conversions.
 
-**Segment Repeat vs One-time Buyers for personalized marketing campaigns
+- **Segment Repeat vs One-time Buyers for personalized marketing campaigns
 
